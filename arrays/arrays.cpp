@@ -11,7 +11,7 @@ int main(){
         cin>> student[i];
     }
     
-    cout<<"The output for the above code is: ";
+    cout<<"The output for the above code is: \n";
     for(i=0; i<5; i++){
         cout<< "\t" <<student[i] <<"\n";
     }
